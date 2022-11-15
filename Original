@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<title></title>
+
+<head></head>
+
+<body>
+    <script>
+        <!--
+        var count;
+        document.write("Start of For-Loop<br>")
+        document.write("________________________<br>")
+        for (count = 0; count <= 10; count++) {
+            document.write("<br>Current Count > " + count + "<br>")
+        }
+        document.write("<br> End of FOR-loop")
+        document.write("<br>________________________<br>")
+        //-->
+    </script>
+</body>
+
+</html>
